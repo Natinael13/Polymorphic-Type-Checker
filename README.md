@@ -1,5 +1,7 @@
 # Polymorphic-Type-Checker
 
+TimpcoreChecker.sml - Given an incomplete type-checker for Typed Impcore; I completed it so that it can handle arrays. My work was done through modifying the typeof function in the provided ML file timpcore.sml
+
 
 
 # What I Learned
